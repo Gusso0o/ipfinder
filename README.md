@@ -1,4 +1,4 @@
 # ipfinder
 IP Finder Advance
 
-License: #MIT
+License: *MIT*
